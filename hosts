@@ -1,2 +1,0 @@
-[webservers]
-testserver ansible_host=192.168.121.113 ansible_port=22 
